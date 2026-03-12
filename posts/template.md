@@ -1,11 +1,7 @@
 ---
-title: Blog Template
-date: 2026-03-08
+title: First Blog Post
+date: 2026-03-11
 ---
 
-This is my Blog Post template I'll be using this markdown file as a template to write simple Blog posts for my website [PicoGlobe](https://picoglobe.nekoweb.org). 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Last night was fun! Cephy and I nerded out and worked on each other's websites and coding. They helped me with getting this blog set up using the Javascript they wrote themselves! I helped Cephy out with the elements.css file. Now I just have to adjust some of the look and feel of this blog. I think 13 year old me would be happy with the site I made. It's very basic but I like it. 
 
-Hope this wqorks!
-
-- *Cephy*
